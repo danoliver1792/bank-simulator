@@ -11,5 +11,4 @@ public class Banco {
 		this.nome = nome;
 	}
 	
-	
 }
